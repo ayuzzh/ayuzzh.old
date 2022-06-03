@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayuzzh
 - 👀 I’m interested in C, Python and full stack development.
-- 🌱 I’m currently learning Css and Nodejs.
-- 💞️ I’m looking to collaborate on interesting topics like API development using Flask, Django and FastAPI.
+- 🌱 I’m currently learning Css and Javascript.
+- 💞️ I’m looking to collaborate on interesting topics like Web development.
 - 📫 Reach me through https://instagram.com/__ayushkm
 
 <!---
