@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayuzzh
-- 👀 I’m interested in C, Python and full stack development.
-- 🌱 I’m currently learning Css and Javascript.
+- 👀 I’m interested in C, C++, Python and Rust.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on interesting topics like Web development.
-- 📫 Reach me through https://instagram.com/__ayushkm
+- 📫 Reach me through [Instagram](https://instagram.com/\_\_ayushkm)
 
 <!---
 ayuzzh/ayuzzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
